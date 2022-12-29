@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning on springboot, java, react, linux, javascript and many things
 
-## My Portfolio is deploing on -> https://qnffnrl.github.io
+## My Portfolio is deploing on -> https://qnffnrl.github.io ising react
 
 ### My Favorite Picture
 
